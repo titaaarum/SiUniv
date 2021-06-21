@@ -1,0 +1,21 @@
+body{
+  background-image: url(bg.jpg);
+  background-size: cover;
+}
+.wrapper{
+  text-align: center;
+  font-family:Century Gothic;
+  padding: 20px;
+  width:350px;
+  height: 50px;
+  margin: 0 auto;
+  margin-top: 15%;
+  background-color: rgb(13, 13, 38, 0.8);
+  border-radius: 15px;
+  color: white;
+}
+a
+{
+  color: white;
+  text-decoration: none;
+}
